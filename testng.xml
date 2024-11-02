@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" verbose="1">
+
+<test  name="DemoQA" verbose="1">
+    <classes>
+      <!--<class name="PK1.Demoblazecartxpath"/>
+      <class name="PK1.DataProviderTest"/>
+      <class name="PK1.DemoqaxpathDatafromExcel"/>
+      <class name="PK3OrangeHRM.OrangeHRM"/>
+      <class name="PK1.Address"/>
+      <class name="PK1.NewTestwithpriority"/>
+      <class name="PK3OrangeHRM.OrangeHRMDatafromExcel"/>
+      <class name="PK1.Demoblazecart"/>
+      <class name="PK1.Demoqaxpath"/>
+      <class name="PK2demoguru99.DemoGuru99"/>-->
+      
+       <class name="PK1.DemoqaxpathDatafromExcel"/>
+    <!-- <class name="PK3OrangeHRM.OrangeHRMDatafromExcel"/>-->
+      
+      <!--<class name="PK3OrangeHRM.ParallelBrowser"/>-->
+      
+    </classes>
+  </test> <!-- Test -->
+
+
+
+  <!--<test  name="OrangeHRM" verbose="1">
+    <classes>
+      <class name="PK1.Demoblazecartxpath"/>
+      <class name="PK1.DataProviderTest"/>
+      <class name="PK1.DemoqaxpathDatafromExcel"/>
+      <class name="PK3OrangeHRM.OrangeHRM"/>
+      <class name="PK1.Address"/>
+      <class name="PK1.NewTestwithpriority"/>
+      <class name="PK3OrangeHRM.OrangeHRMDatafromExcel"/>
+      <class name="PK1.Demoblazecart"/>
+      <class name="PK1.Demoqaxpath"/>
+      <class name="PK2demoguru99.DemoGuru99"/>
+
+       <class name="PK1.DemoqaxpathDatafromExcel"/>
+     <class name="PK3OrangeHRM.OrangeHRMDatafromExcel"/>
+      
+      <class name="PK3OrangeHRM.ParallelBrowser"/>
+      
+    </classes>
+  </test> -->
+  
+  
+  
+  
+</suite> <!-- Suite -->
